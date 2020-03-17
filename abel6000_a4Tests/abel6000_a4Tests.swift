@@ -1,13 +1,13 @@
 //
-//  abel6000_a2Tests.swift
-//  abel6000_a2Tests
+//  abel6000_a4Tests.swift
+//  abel6000_a4Tests
 //
 //  Created by Adriana Abella on 2020-01-29.
 //  Copyright © 2020 wlu. All rights reserved.
 //
 
 import XCTest
-@testable import abel6000_a2
+@testable import abel6000_a4
 
 class abel6000_a2Tests: XCTestCase {
 
